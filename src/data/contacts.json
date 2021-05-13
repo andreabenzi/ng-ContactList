@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "surname": "Lennon",
+    "email": "johnlennon@andreabenzi.it"
+  },
+  {
+    "id": 2,
+    "name": "Joe",
+    "surname": "Strummer",
+    "email": "joestrummer@andreabenzi.it"
+  },
+  {
+    "id": 3,
+    "name": "Kurt",
+    "surname": "Cobain",
+    "email": "kurtcobain@andreabenzi.it"
+  },
+  {
+    "id": 4,
+    "name": "Elvis",
+    "surname": "Presley",
+    "email": "elvispresley@andreabenzi.it"
+  },
+  {
+    "id": 5,
+    "name": "Sid",
+    "surname": "Vicious",
+    "email": "sidvicious@andreabenzi.it"
+  },
+  {
+    "id": 5,
+    "name": "Amy",
+    "surname": "Winehouse",
+    "email": "amywinehouse@andreabenzi.it"
+  }
+]
